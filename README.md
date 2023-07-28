@@ -18,7 +18,7 @@ OJO : Deben ejecutarse las dos app para que funcione: api-hola y app-hola-luz, e
 
 
 ```bash
-  cd hola-luz
+  cd alten
   npm install 
 ```
 
@@ -29,6 +29,7 @@ Para correr el proyecto, necesitamos las sigueinte variables de entorno en el ar
 
 `URL_API = http://localhost:3010/`
 `CONTROLLER = reading/file`
+
 
 ## Deployment
 
