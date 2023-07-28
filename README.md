@@ -5,7 +5,7 @@ Este es la solución a la prueba tecnica enviada por ALTEN, donde se requiere id
 
 En esta app, unicamente se muestra al usuario una app de línea de comandos que toma un nombre de archivo como argumento, para ser enviado a la API app-hola-luz, lo realicé separado porque con la finalidad que fuese una api de arquitectura hexagonal perdia su funcionalidad al ejecutarse por linea de comandos, ademas que no podia ser escalable, por ello separé el front (app de linea de comandos) del backend (arquitectura hexagonal). 
 
-OJO : Deben ejecutarse las dos app para que funcione: api-hola y app-hola-luz.
+OJO : Deben ejecutarse las dos app para que funcione: api-hola y app-hola-luz, el codigo de ambos proyectos se encuentran en la rama `develop`.
 
 ## Authors
 
@@ -26,7 +26,7 @@ OJO : Deben ejecutarse las dos app para que funcione: api-hola y app-hola-luz.
 To deploy this project run
 
 ```bash
-  npm run build
+  npm run tsc
   npm run start 
 ```
 
