@@ -21,6 +21,15 @@ OJO : Deben ejecutarse las dos app para que funcione: api-hola y app-hola-luz, e
   cd hola-luz
   npm install 
 ```
+
+
+## Environment Variables
+
+Para correr el proyecto, necesitamos las sigueinte variables de entorno en el archivo .env, copiar de .env_sample
+
+`URL_API = http://localhost:3010/`
+`CONTROLLER = reading/file`
+
 ## Deployment
 
 To deploy this project run
@@ -35,13 +44,6 @@ To deploy this project run dev
 ```bash
   npm run dev 
 ```
-
-## Environment Variables
-
-Para correr el proyecto, necesitamos las sigueinte variables de entorno en el archivo .env, copiar de .env_sample
-
-`URL_API = http://localhost:3010/`
-`CONTROLLER = reading/file`
 
 ## Appendix
 
