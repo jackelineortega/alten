@@ -9,7 +9,7 @@ OJO : Deben ejecutarse las dos app para que funcione: api-hola y app-hola-luz, e
 
 ## Authors
 
-- [@jackelineortega](https://www.github.com/jackelineortegs)
+- [@jackelineortega](https://www.github.com/jackelineortega)
 
 
 ## API Reference
